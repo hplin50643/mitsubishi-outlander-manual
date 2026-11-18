@@ -13,7 +13,7 @@ The 11,190 converted illustrations total **422,052,160 bytes**. The website expo
 
 This repository and its GitHub Pages website are public.
 
-**Open the website:** <https://root50643.github.io/mitsubishi-outlander-manual/>
+**Open the website:** <https://hplin50643.github.io/mitsubishi-outlander-manual/>
 
 GitHub Pages publishes the root directory of the `main` branch over HTTPS.
 
